@@ -35,16 +35,12 @@
         <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="40" height="40" />
       <br>bash
     </td>
-            
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-      <br>MySQL
-    </td>
-                    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="40" height="40" />
-      <br>Jenkins
+             <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
+      <br>Docker
     </td>
   </tr>
+    
   <tr>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" />
@@ -65,15 +61,9 @@
         <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
-      <br>jQuery
-    </td>
-                         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="icon" width="40" height="40" />
-      <br>Ansible
-    </td>
   </tr>
+
+  
  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="GitHub" />
@@ -93,30 +83,11 @@
       <br>Ubuntu
     </td>
     
-<!--             <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" height="40" alt="django" />
-      <br>Django
-    </td> -->
-<!--               <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="rest" />
-      <br>REST
-    </td> -->
-<!--               <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" height="40" alt="GraphQL" />
-      <br>GraphQL -->
   <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
       </a>
       <br>AWS
-    </td>
-              <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
-      <br>Kubernetes
     </td>
  </tr>
 </table>
