@@ -35,10 +35,7 @@
         <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="40" height="40" />
       <br>bash
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="40" height="40" />
-      <br>figma
-    </td>
+            
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
