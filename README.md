@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7D3&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Developer;Currently+Learning+ML)](https://git.io/typing-svg)
 
+- <img align="right" alt="Coding" width="400" src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/coding-freak%20(1).gif">
+
 ## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
 
