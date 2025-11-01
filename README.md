@@ -1,15 +1,19 @@
 <h1 align="center">Hey there, I'm Kartik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7D3&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Developer;Currently+Learning+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7D3&center=true&vCenter=true&width=900&height=110&lines=DevOps+Practitioner;Full+Stack+Developer;Currently+Learning+Golang)](https://git.io/typing-svg)
 
-- <img align="right" alt="Coding" width="400" src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/coding-freak%20(1).gif">
+<a href="https://ayush-portfolio-epww.onrender.com/" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=ayushsharma-1&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+</a>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <!-- Skill Set  -->
 <div align="center">
     <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
