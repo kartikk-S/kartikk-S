@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">A 4th year CS undergrad with a passion for backend development and strong interest in Machine Learning.</h3>
 
-- 🔭 Currently working on **An AI Teaching Assistant, using Retrieval-Augmented Generation (RAG).**
+- 🔭 Currently working on **an AI Teaching Assistant, using Retrieval-Augmented Generation (RAG).**
 
 - 🌱 I’m currently learning **Machine Learning Concepts**
 
