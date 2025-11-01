@@ -158,17 +158,9 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <p align="center">
   <i>Ask me anything I'am Happy to Help! </i>
   <br><br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://leetcode.com/u/Kartik_Singhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush-018" height="30" width="40" /></a>
-</p>
-<br>
-</p>
-<h3 align="right">👋 Have the Best Day you can 🌈</h3>
