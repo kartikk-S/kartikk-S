@@ -7,7 +7,7 @@
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
-<br><br><br><br><br><br><br><br>
+<br><br><br>
 <!-- Skill Set  -->
 <div align="center">
     <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
@@ -76,7 +76,7 @@
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
-      <br>ExpreeJS
+      <br>ExpressJS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="express" />
@@ -100,9 +100,6 @@
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="JavaScript"  height="40"/></a></code>&nbsp;&nbsp;
   </a> 
-<!--   <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" title="swift" width="40" height="40"/></a></code>&nbsp;&nbsp;  -->
-<code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" title="kotlin" width="40" height="40"/> </a> </code>&nbsp;
-  <code><a href="#" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" title="Go" alt="Go"  height="40"/></a></code>&nbsp;&nbsp;
 </div>
 </div>
 
@@ -119,7 +116,6 @@
 <!-- Skill Set (L&F)  -->
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
-    <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
       <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Jquery-icon.svg" title="jquery" alt="jquery"  height="40"/></a></code>&nbsp;
@@ -137,16 +133,6 @@
 </div>
 <br>
 
-<!-- Skill Set (Cloud)  -->
-<div align="center">
-    <h3><b>Cloud</b></h3>
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
-        <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-netlify_%28CoreUI_Icons_v1.0.0%29.svg" title="Netlify" alt="Netlify" width="40" height="40"/> </a></code>&nbsp;&nbsp;
-   <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/logo-vercel-icon-512x444-szlkql7g.png" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp;
-</div>
-<br>
-
 <!-- Skill Set (Tools)  -->
 <div align="center">
     <h3><b>Tools</b></h3>
@@ -155,16 +141,6 @@
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
 </div>
 <br>
-
-<div align="center">
-    <h3><b>DevOps Tools</b></h3>
-    <code><a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" width="70" height="50"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://d28yx2zopyx2ad.cloudfront.net/assets/kubernetes.png" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a></code>&nbsp;
-    <br><br>
-</div>
 
 <div align="center">
     <h3><b>Operating Systems</b></h3>
@@ -177,33 +153,6 @@
 </div>
 <hr>
 <br>
-<div align="center">
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ayushsharma-1">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayushsharma-1" alt="Ayush's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ayushsharma-1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsharma-1&theme=radical" alt="Ayush's GitHub Contribution"/>
-  </a>
-</p>
-
-<hr>
-<div align="center">
-<a> 
-<!--     <a href="https://github.com/ayushsharma-1"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ayushsharma-1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
-
-  <div align="center">
-  <a href="https://github.com/ayushsharma-1"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ayushsharma-1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br>
-</a>
-
-  <hr><div align="center">
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Technology Joke
 
