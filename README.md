@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Kartik Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7D3&center=true&vCenter=true&width=900&height=110&lines=DevOps+Practitioner;Full+Stack+Developer;Currently+Learning+Golang)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7D3&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Developer;Currently+Learning+ML)](https://git.io/typing-svg)
 
 ## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
@@ -16,7 +16,7 @@
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
-  <tr>
+  <tr align="center">
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
       <br>C++
