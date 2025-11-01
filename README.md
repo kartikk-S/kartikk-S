@@ -162,5 +162,5 @@
 
 
 <p align="center">
-  <i>Ask me anything I'am Happy to Help! </i>
+  <i>Ask me anything I'm Happy to Help! </i>
   <br><br>
