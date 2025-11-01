@@ -154,45 +154,11 @@
 <hr>
 <br>
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Technology Joke
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Technology Jokes
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <hr>
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Developers' Quotes
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsharma-1&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Profile Trophy
-                  
-<br>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushsharma-1&column=7"/>
-  </a>
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/ayush-018/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/guardian.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ayush-018/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/knight.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ayush-018/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ayush-018/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-<p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ayush-018?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
 
 
 <p align="center">
@@ -200,9 +166,8 @@
   <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/ayush-018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush-018" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ayush-018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayush-018" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush-018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush-018" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/Kartik_Singhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush-018" height="30" width="40" /></a>
 </p>
 <br>
 </p>
