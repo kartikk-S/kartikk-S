@@ -1,4 +1,4 @@
-<h1 align="center">Sup ! I'm Kartik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hello ! I'm Kartik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7D3&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Developer;Juggling+Dockerized+Containers+and+Monotonic+Stacks;ML+Enthusiast)](https://git.io/typing-svg)
 
